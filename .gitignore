@@ -1,0 +1,31 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Executables / Binaries (Windows, Linux, macOS)
+*.exe
+*.out
+*.app
+*.dSYM/
+
+# IDE and Editor files (VS Code, Visual Studio, Code::Blocks)
+.vscode/
+.vs/
+*.suo
+*.user
+*.filters
+*.ipch
+.idea/
+*.workspace
